@@ -1,5 +1,6 @@
 # **Reconstruction of the Collatz-type Map ($3n+5$ Problem) via Jacobsthal Normalized Spinor Representation**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22230667.svg)](https://doi.org/10.5281/zenodo.22230667)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Document: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
